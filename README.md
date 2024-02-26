@@ -1,4 +1,4 @@
-# SanFranBusinesses
+# San Francisco Business Closure Analysis Project
 Analyzing Business Closures in San Francisco
 # Analyzing Business Closures in San Francisco, CA: A Data Science Project
 
