@@ -1,7 +1,5 @@
 # San Francisco Business Closure Analysis Project
 
-# Analyzing Business Closures in San Francisco, CA: A Data Science Project
-
 ## Project Overview
 
 Welcome to the "Analyzing Business Closures in San Francisco, CA" data science project. In this project, we will leverage data from various sources to gain insights into the factors affecting business closures in the city. We'll use data analysis, machine learning, and geospatial analysis techniques to achieve our goals.
