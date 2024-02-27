@@ -53,8 +53,6 @@ Please feel free to explore the code and data in this repository and reach out f
 
 We would like to thank the City of San Francisco, the Bay Area Rapid Transport system, and the San Francisco Police Department for providing valuable datasets.
 
-**Contributors:** [Emmanuel Sengendo],
-
 **License:** This project is open-source under the [MIT License](LICENSE).
 
 ---
